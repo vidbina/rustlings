@@ -21,3 +21,12 @@ public/
 
 # Ignore file for editors like Helix
 .ignore
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
